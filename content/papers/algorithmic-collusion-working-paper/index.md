@@ -19,5 +19,7 @@ tags:
   - Stochastic Games #[cite: 1]
   - Multi-Agent Reinforcement Learning #[cite: 1]
 
-url_pdf: "/index.pdf"
+links:
+  - type: pdf
+    url: "index.pdf"
 ---
